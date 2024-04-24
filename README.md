@@ -11,7 +11,8 @@ contact@nesrinebekkar.com
 
 Languages and Tools: <br/>
 
-![image](https://github.com/NesrineYAH/NesrineYAH/assets/113270141/a9a67fd4-a361-47e3-a52c-3cb3b674dad9)
+![img readme](https://github.com/NesrineYAH/NesrineYAH/assets/113270141/7a0bb076-5fde-4f50-bf6a-a8a531d9bd58)
+
 
 <br/>
 HTML, CSS3, SASS, Javscript, Bootstrap, Figma, Git, MongoDB, nodejs, React, Redux, TailwindCSS 
