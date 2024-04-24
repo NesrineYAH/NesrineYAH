@@ -15,11 +15,6 @@ Languages and Tools: <br/>
 
 <SiCss3 />
 
-
-
-![image](https://github.com/NesrineYAH/NesrineYAH/assets/113270141/61e7b733-8dd7-4e92-a95c-3c0a1c982106)
-
-
 ![img readme](https://github.com/NesrineYAH/NesrineYAH/assets/113270141/ad7a06b6-67fd-4c48-9bf7-1581add0cb70)
 
 <br/>
