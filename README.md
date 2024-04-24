@@ -9,7 +9,7 @@ Web Developer specialized in JavaScript -- focusing on React
 nesrineyahoum@gmail.com
 contact@nesrinebekkar.com
 
-Languages and Tools:
+Languages and Tools: <br/>
 HTML, CSS3, SASS, Javscript, Bootstrap, Figma, Git, MongoDB, nodejs, React, Redux, TailwindCSS 
 
 <!--
