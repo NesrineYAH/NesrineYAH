@@ -12,6 +12,8 @@ nesrineyahoum@gmail.com  <br/>
 contact@nesrinebekkar.com
 
 Languages and Tools: <br/>
+<i class="fa-brands fa-css3-alt"></i>
+
 ![img readme](https://github.com/NesrineYAH/NesrineYAH/assets/113270141/ad7a06b6-67fd-4c48-9bf7-1581add0cb70)
 
 <br/>
