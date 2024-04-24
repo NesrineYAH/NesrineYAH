@@ -6,18 +6,23 @@ Web Developer specialized in JavaScript -- focusing on React
 🌐 Portfolio: https://www.nesrinebekkar.com
 
     📫 How to contact me ?:
-nesrineyahoum@gmail.com
+nesrineyahoum@gmail.com  <br/>
 contact@nesrinebekkar.com
 
 Languages and Tools: <br/>
+https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg 
+<br/>
 HTML, CSS3, SASS, Javscript, Bootstrap, Figma, Git, MongoDB, nodejs, React, Redux, TailwindCSS 
 
+<br/>
+
+- 🔭 I’m currently working as frontend web developer ...
 <!--
 **NesrineYAH/NesrineYAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as frontend web developer ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
