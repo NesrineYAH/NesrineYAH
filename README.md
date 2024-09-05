@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nesrine BEKKAR YAHOUM 
-Web Developer specialized in JavaScript -- focusing on React
+Frontend and full stack Web Developer specialized in JavaScript -- focusing on React
 
 profile views :
 
