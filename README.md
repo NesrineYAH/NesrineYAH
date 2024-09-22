@@ -15,9 +15,9 @@ Languages and Tools: <br/>
 
 
 
-![img readme](https://github.com/NesrineYAH/NesrineYAH/assets/113270141/ad7a06b6-67fd-4c48-9bf7-1581add0cb70)
 
-
+<br/>
+HTML, CSS3, SASS, Javscript, Bootstrap, Figma, Git, MongoDB, nodejs, React, Redux, TailwindCSS 
 
 <br/>
 - 🔭 I’m currently working as frontend web developer ...
