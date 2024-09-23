@@ -13,56 +13,6 @@ contact@nesrinebekkar.com
 
 Languages and Tools: <br/>
 
-<div> <img src="images/html.png" alt="HTML" />
-            <p>HTML</p></div>
-           
- <div>
-  <img src="images/css.png" alt="CSS3" />
-            <p>CSS3</p></div>
-   <div>
-            <img src="images/sass.png" alt="SASS" />
-            <p>SASS</p></div>
-            
-   <div> <img src="images/js.png" alt="JavaScript" />
-            <p>JavaScript</p></div> 
-            <div><img src="images/bootstrap.png" alt="Bootstrap" />
-            <p>Bootstrap</p></div>
-            <div> <img src="images/figma.png" alt="Figma" />
-            <p>Figma</p></div>
-      <div>  <img src="images/git.png" alt="Git" />
-            <p>Git</p></div>
-            <div> <img src="images/mongodb.png" alt="MongoDB" />
-            <p>MongoDB</p></div>
- 
-            
-     
-     
-           
-       
-   
-          
-     
-   
-        
-
-            <img src="images/nodejs.png" alt="Node.js" />
-            <p>Node.js</p>
-
-            <img src="images/react.png" alt="React" />
-            <p>React</p>
-
-
-            <img src="images/redux.png" alt="Redux" />
-            <p>Redux</p>
-    
-
-            <img src="images/tailwind.png" alt="TailwindCSS" />
-            <p>TailwindCSS</p>
-
- 
-
-
-
 
 <br/>
 - 🔭 I’m currently working as frontend web developer ...
