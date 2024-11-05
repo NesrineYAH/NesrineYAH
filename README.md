@@ -5,7 +5,7 @@ profile views :
 
  NESRINE BEKKAR YAHOUM
 
-🌐 Portfolio: https://www.nesrinebekkar.com
+🌐 Portfolio: https://nesrinebekkar.com
 
     📫 How to contact me ?:
 nesrineyahoum@gmail.com  <br/>
